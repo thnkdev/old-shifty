@@ -1,0 +1,6 @@
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
